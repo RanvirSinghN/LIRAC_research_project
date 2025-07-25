@@ -4,4 +4,6 @@ To run code, FITS images must be downloaded into same directory.
 
 AvgZPCalc looks at many FITS images and calculates an average zero point magnitude and its error for several images using aperture methods - disc where outer area calculates background states and inner circle contains star which calculates stats for the stars. Calculations based on flux readings for image (birghtness) which is processed into a value for magnitude (standarised brightness). 
 
+Single Source Photomoetry uses results from AvgZPCalc to calibrate the magnitudes based on telescope. Results then published and finalised in images spreadsheet where final result was the avg limiting magnitude found from calculations on results from avgzpcalc and singlesourceSN1Aphotometry. 
+
 
