@@ -6,4 +6,6 @@ AvgZPCalc looks at many FITS images and calculates an average zero point magnitu
 
 Single Source Photomoetry uses results from AvgZPCalc to calibrate the magnitudes based on telescope. Results then published and finalised in images spreadsheet where final result was the avg limiting magnitude found from calculations on results from avgzpcalc and singlesourceSN1Aphotometry. 
 
+Further research was done to produce light curve plots which should be standarsied for all SN 1A and I attempted to plot them in infrared bands which hadn't been done vastly for these suernovae. 
+
 
